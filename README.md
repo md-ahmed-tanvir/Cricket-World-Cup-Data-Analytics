@@ -42,3 +42,24 @@ The Cricket Data Analytics🏏 project is made on T-20 Cricket World Cup Data. I
 
 ![pick_final_11](https://github.com/notramm/Cricket-World-Cup-Data-Analytics/blob/master/Screenshots/pick_final_11.jpg)
 
+
+
+
+
+📄 License
+© 2025 Md. Tanvir Ahmed — All Rights Reserved
+
+This repository is for educational and professional showcase purposes only.
+
+❌ No downloading
+
+❌ No copying
+
+❌ No modifying
+
+❌ No redistribution
+
+❌ No commercial use
+
+You may view the contents of this repository for reference purposes only.
+Any other use requires explicit written permission from Md. Tanvir Ahmed.
